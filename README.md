@@ -7,9 +7,9 @@ To use the scripts, download the Violent Monkey extension for your browser (chro
 This is a growing repo, new code will be added here whenever the functionality is created.
 
 # Click All Workflows
-## This will add a button to iteratively click on EDIT for all the listed workflows.
+This will add a button to iteratively click on EDIT for all the listed workflows.
 ![Alt text](images/click-all-workflows.png?raw=true "click-all-workflows")
 
 # Open All Transitions
-## This will add a button to iteratively click on each transition links in the active workflow.
+This will add a button to iteratively click on each transition links in the active workflow.
 ![Alt text](images/click-all-transitions.png?raw=true "click-all-transitions")
